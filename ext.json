@@ -6,8 +6,8 @@
     "version": "0.0.1",
     "description": "Dark Nord Theme for Standard Notes",
     "url": "https://github.com/lodirider/sn-theme-darknord.git",
-    "download_url": "https://github.com/dombean/sn-theme-nord/archive/refs/tags/v0.0.2.zip",
-    "latest_url": "https://cdn.jsdelivr.net/gh/dombean/sn-theme-nord@0.0.2/ext.json",
+    "download_url": "https://github.com/lodirider/sn-theme-darknord/archive/refs/tags/v0.0.1.zip",
+    "latest_url": "https://github.com/lodirider/sn-theme-darknord/releases/latest",
     "dock_icon": {
         "type": "circle",
         "background_color": "#2E3440",
