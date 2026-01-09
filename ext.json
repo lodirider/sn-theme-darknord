@@ -1,11 +1,11 @@
 {
-    "identifier": "github.dombean.sn-theme-nord",
+    "identifier": "github.lodirider.sn-theme-darknord",
     "name": "Nord",
     "content_type": "SN|Theme",
     "area": "themes",
-    "version": "0.0.2",
-    "description": "Nord Theme for Standard Notes",
-    "url": "https://cdn.jsdelivr.net/gh/dombean/sn-theme-nord@0.0.2/main.css",
+    "version": "0.0.1",
+    "description": "Dark Nord Theme for Standard Notes",
+    "url": "https://github.com/lodirider/sn-theme-darknord.git",
     "download_url": "https://github.com/dombean/sn-theme-nord/archive/refs/tags/v0.0.2.zip",
     "latest_url": "https://cdn.jsdelivr.net/gh/dombean/sn-theme-nord@0.0.2/ext.json",
     "dock_icon": {

@@ -1,0 +1,11 @@
+{
+    "name": "sn-theme-darknord",
+    "version": "0.0.1 ",
+    "sn": {
+        "main": "main.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lodirider/sn-theme-darknord.git"
+    }
+}
